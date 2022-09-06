@@ -14,4 +14,4 @@ Smart contracts are simply programs stored on a blockchain that run when predete
 
 Explain the difference between a script and a transaction
 
- Script used to manipulate, customize, and automate the facilities of an existing system While  a Transaction is a sequence of information exchange and related work in a system.
+ Script is used to manipulate, customize, and automate the facilities of an existing system While  a Transaction is a sequence of information exchange and related work in a system.
