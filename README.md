@@ -37,3 +37,12 @@ Resource Oriented Programming,
 In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful
 
 they are all useful for a clear and understandable source data for the public
+
+# Chapter 2 Day 1
+
+1
+
+![Screenshot (3)](https://user-images.githubusercontent.com/100140968/189584500-0a9d1290-87a2-433a-a713-4dec36d0a70e.png)
+
+
+
